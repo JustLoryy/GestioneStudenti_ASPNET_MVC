@@ -1,0 +1,11 @@
+﻿@page "/student/{id:int?}"
+@model GestioneStudenti.Pages.StudentModel
+@{
+}
+
+<form method="post">
+    <input type="hidden" asp-for="student.id" />
+    <p>Nome: <input asp-for="student.name" /></p>
+    <p>Cognome: <input asp-for="student.surname" /></p>
+    <button>Salva</button>
+</form>

@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<a href="/student">Nuovo</a>
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Cognome</th>
+        <th>Azioni</th>
+    </tr>
+    @foreach(var student in Model.Students)
+    {
+        <tr>
+            <td>@student.id</td>
+            <td>@student.name</td>
+            <td>@student.surname</td>
+            <td>
+                <a href="/student/@student.id">Modifica</a>
+                <a href="/student/delete/@student.id">Elimina</a>
+            </td>
+        </tr>
+    }
+</table>

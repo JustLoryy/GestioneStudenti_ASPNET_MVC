@@ -1,0 +1,11 @@
+﻿@page "/student/delete/{id:int}"
+@model GestioneStudenti.Pages.DeleteStudentModel
+@{
+}
+
+<p>Stai per eliminare lo studente @Model.student.name @Model.student.surname</p>
+<form method="post">
+    <button>Elimina</button>
+</form>
+
+<a href="/">Annulla</a>
