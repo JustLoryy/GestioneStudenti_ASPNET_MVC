@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using GestioneStudenti.Services;
+using GestioneStudenti.Data;
 
 namespace GestioneStudenti.Pages
 {
@@ -9,10 +10,10 @@ namespace GestioneStudenti.Pages
         private readonly ILogger<IndexModel> _logger;
         private readonly IStorage _storage;
 
-        public IndexModel(ILogger<IndexModel> logger, IStorage _ss)
+        public IndexModel(ILogger<IndexModel> logger, IStorage storage)
         {
             _logger = logger;
-            _storage = _ss;
+            _storage = storage;
         }
 
         public List<Student> Students => _storage.GetStudents();

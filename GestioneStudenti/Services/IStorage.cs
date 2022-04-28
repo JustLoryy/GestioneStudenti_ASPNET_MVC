@@ -1,4 +1,7 @@
-﻿namespace GestioneStudenti.Services
+﻿using Microsoft.AspNetCore.Mvc;
+using GestioneStudenti.Data;
+
+namespace GestioneStudenti.Services
 {
     public interface IStorage
     {
