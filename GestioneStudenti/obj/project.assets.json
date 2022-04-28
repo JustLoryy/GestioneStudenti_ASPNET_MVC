@@ -1897,24 +1897,26 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\zLory\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj",
+      "projectUniqueName": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
       "projectName": "GestioneStudenti",
-      "projectPath": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/obj/",
+      "projectPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
+      "packagesPath": "C:\\Users\\zLory\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\zLory\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1970,7 +1972,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
