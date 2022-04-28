@@ -4,12 +4,17 @@ namespace GestioneStudenti.Services
     public class SimpleStorage : IStorage
     {
         private readonly List<Student> _students = new List<Student>();
+        private int studentId { get; set; }
         private readonly ApplicationDbContext _context;
         public void AddStudent(Student s)
         {
+            s = new Student();
+            s.id = studentId;
+            _context.Students.Add(s);
+            _context.SaveChanges();
             //s.id = _context.Students.
             //s.id = _students.Count + 1;
-            _students.Add(s);
+            //_students.Add(s);
         }
         public void SaveStudent(Student s)
         {
