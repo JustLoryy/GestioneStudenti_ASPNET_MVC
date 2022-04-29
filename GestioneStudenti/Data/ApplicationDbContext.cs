@@ -13,7 +13,7 @@ namespace GestioneStudenti.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("185.25.206.105");
+            optionsBuilder.UseSqlServer("Data Source=185.25.206.105;User ID=SA;Password=database.1374;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
         }
 
 
