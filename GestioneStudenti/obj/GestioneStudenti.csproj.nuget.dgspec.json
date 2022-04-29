@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj": {}
+    "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj": {
+    "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
+        "projectUniqueName": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj",
         "projectName": "GestioneStudenti",
-        "projectPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
-        "packagesPath": "C:\\Users\\zLory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\obj\\",
+        "projectPath": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/GestioneStudenti.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\zLory\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
