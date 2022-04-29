@@ -8,45 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GestioneStudenti
 build_property.RootNamespace = GestioneStudenti
-build_property.ProjectDir = /home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/
+build_property.ProjectDir = C:\Users\zLory\OneDrive\Documenti\GIT\GestioneStudente_git\GestioneStudenti\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti
+build_property.MSBuildProjectDirectory = C:\Users\zLory\OneDrive\Documenti\GIT\GestioneStudente_git\GestioneStudenti
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/DeleteStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGVsZXRlU3R1ZGVudC5jc2h0bWw=
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/DeleteStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Student.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudC5jc2h0bWw=
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/WebApps/GestioneStudenti/GestioneStudenti/GestioneStudenti/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-5q9ferncyk
+[C:/Users/zLory/OneDrive/Documenti/GIT/GestioneStudente_git/GestioneStudenti/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lshpfduok5
