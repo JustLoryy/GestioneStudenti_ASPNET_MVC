@@ -13,7 +13,7 @@ namespace GestioneStudenti.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB;database=StudentTest;");
+            optionsBuilder.UseSqlServer("185.25.206.105");
         }
 
 
