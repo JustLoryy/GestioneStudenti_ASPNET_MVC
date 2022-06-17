@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F0AyIVXlgIxuINMH9t8WVIuwKKXD0hLfoylDF8gSvZuKtEEanptnQgIUGjEFilOXN58guO/lfjEjNrvka0JCvg==",
+  "dgSpecHash": "YqWFX7+S724mrpUVl/iQR3jIgAsHeogY167DUO6sgzUuZVjrSxTZ23mSGAlZgqijX45xdt6PZbSocBBCqVvI3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
+  "projectFilePath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\GestioneStudenti.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zLory\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zLory\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

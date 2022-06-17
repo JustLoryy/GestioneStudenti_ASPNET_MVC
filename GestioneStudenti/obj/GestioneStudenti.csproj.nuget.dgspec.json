@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj": {}
+    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\GestioneStudenti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj": {
+    "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\GestioneStudenti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
+        "projectUniqueName": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\GestioneStudenti.csproj",
         "projectName": "GestioneStudenti",
-        "projectPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\GestioneStudenti.csproj",
+        "projectPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\GestioneStudenti.csproj",
         "packagesPath": "C:\\Users\\zLory\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\GestioneStudente_git\\GestioneStudenti\\obj\\",
+        "outputPath": "C:\\Users\\zLory\\OneDrive\\Documenti\\GIT\\testdir\\GestioneStudenti_ASPNET_MVC\\GestioneStudenti\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zLory\\AppData\\Roaming\\NuGet\\NuGet.Config",
